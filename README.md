@@ -1,3 +1,3 @@
 # siliconelabs-curriculum
 
-This repository includes SiliconeLabs software testing curriculum.
+This repository includes SiliconeLabs software automation testing curriculum.
